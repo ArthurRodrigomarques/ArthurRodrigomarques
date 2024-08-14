@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">Sou de São paulo<br><br>- 📚 Cursando Análise e Desenvolvimento de Sistemas<br>- ⚡ Estudando: Ruby on Rails, Java, Docker...</p>
+<p align="left">Sou de São paulo<br><br>- 🔭 Estou trabalhando em site de vendas<br>- 📚 Cursando Análise e Desenvolvimento de Sistemas<br>- ⚡ Estudando: Ruby on Rails, Java, Docker...</p>
 
 ###
 
@@ -48,13 +48,16 @@
 
  ###
  
- <div>
+  <div>
   <a href="https://instagram.com/vallionstech?igshid=YmMyMTA2M2Y" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:arthurrodrigo05052004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arthurrodrigodefariasmarques" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  </div>
+ ###
+   
  <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ArthurRodrigomarques/ArthurRodrigomarques/output/snake.svg" alt="Snake animation" />
  
-</div>
+
+###
