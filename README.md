@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 📚 Cursando Análise e Desenvolvimento de Sistemas<br><br>- ⚡ Estudando: Ruby on Rails, Java, Docker...<br><br>- 🔭 Estou trabalhando em site de vendas</p>
+<p align="left">- 📚 Cursando Análise e Desenvolvimento de Sistemas<br><br>- ⚡ Estudando: Ruby on Rails, Java, Docker...<br><br>- 🔭 Estou trabalhando em um site de vendas</p>
 
 ###
 
