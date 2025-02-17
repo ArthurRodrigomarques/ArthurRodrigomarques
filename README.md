@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 📚 Cursando Análise e Desenvolvimento de Sistemas<br><br>- ⚡ Estudando: C, C++, Docker...<br><br>- 🔭 Estou trabalhando em um site de vendas</p>
+<p align="left">- 📚 Cursando Análise e Desenvolvimento de Sistemas<br><br>- ⚡ Estudando: C, C#, Docker...<br><br>- 🔭 Estou trabalhando em um site de vendas</p>
 
 ###
 
